@@ -18,6 +18,6 @@ Evaluated model performance on train and test set using Seasonal Autoregression 
 
 **4. SQL Database of BART ridership and GTFS data** [_(Link)_](https://medium.com/@atmikapai/sql-database-for-bart-ridership-and-scheduling-data-8fadb40efc51)
 
-Created novel database on BART ridership from 2001 to 2023 and General Specification Transit Feed (GTFS) scheduling data for urban data enthusiasts to be able to conduct temporal and geospatial analysis from one database
+Created novel database on BART ridership from 2001 to 2023 and General Specification Transit Feed (GTFS) scheduling data for urban data enthusiasts to be able to conduct temporal and geospatial analysis from one database in MySQL 
 
 
